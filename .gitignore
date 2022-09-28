@@ -1,6 +1,6 @@
-./build/*
+./build
 ./gui.spec
 ./108502003_林緯翔_作業三.pdf
 
-./.idea/*
+./.idea
 ./__pycache__
