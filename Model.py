@@ -28,7 +28,6 @@ def load_data(data_path, row, column) -> list:
     return return_list
 
 
-# todo try wider input
 def load_data_1(data_path, row, column) -> list:
     """turn input .txt file to a list of np array"""
     zero_symbol = " "
